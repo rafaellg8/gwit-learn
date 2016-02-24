@@ -1,0 +1,2 @@
+serviceClass: com.app.trainingapp.client.GreetingService
+path: C246D268ADC38244AB9F954940FBD9A4.gwt.rpc
